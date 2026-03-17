@@ -18,6 +18,10 @@ npm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
+*.lnk
 
 # Vercel
 .vercel
+
+# Old subfolder (can be deleted)
+pi-birthday-finder/
